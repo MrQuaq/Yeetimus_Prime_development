@@ -1,3 +1,7 @@
+# Laetus
+Laetus is the first of 3 rockets to fly in the Yeetimus Prime development program
+Laetust itself is simulated to launch to about 450m and is used to test build methods.
+
 # Yeetimus Prime
 
 Yeetimus Prime is 2 stage model rocket that will fly to about 1.2km
@@ -20,6 +24,6 @@ What needs to be made:
 
 This launch needs a strong development program to maximise succes.
 Therefore the project archetecture will be:
-1. Laetus to test general rocketry skills
+1. Laetus to test general rocketry skills and build methonds 
 2. second rocket where avionics will be used for chute deployment. This will strongly help verifying and tuning the custom flight computer.
 3. Yeetimus Prime that combines it all!
